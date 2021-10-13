@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hady-potter
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning embedded system 
 - 💞️ I’m looking to collaborate on newTube
 - 📫 How to reach me hadym137@gmail.com
 
